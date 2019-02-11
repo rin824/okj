@@ -1,0 +1,1140 @@
+﻿Log file open, 02/06/19 20:29:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject1
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.295984
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.294s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/Yoshi/Desktop/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-11.29.51:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.06-11.29.51:109][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.06-11.29.51:110][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.06-11.29.51:110][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.06-11.29.51:110][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.06-11.29.51:110][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.06-11.29.51:110][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-11.29.51:110][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-11.29.51:112][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.06-11.29.51:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.06-11.29.51:113][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.06-11.29.51:113][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.06-11.29.51:113][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.06-11.29.51:147][  0]LogHAL: Display: Platform has ~ 8 GB [8501272576 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.06-11.29.51:147][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.06-11.29.51:147][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.02.06-11.29.51:147][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-11.29.51:148][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.06-11.29.51:148][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.06-11.29.51:148][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-11.29.51:148][  0]LogInit: Computer: DESKTOP-5ADVPRM
+[2019.02.06-11.29.51:148][  0]LogInit: User: Yoshi
+[2019.02.06-11.29.51:148][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.06-11.29.51:148][  0]LogInit: High frequency timer resolution =1.945314 MHz
+[2019.02.06-11.29.51:149][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.02.06-11.29.51:149][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.06-11.29.51:149][  0]LogMemory: Process Physical Memory: 103.63 MB used, 103.63 MB peak
+[2019.02.06-11.29.51:149][  0]LogMemory: Process Virtual Memory: 91.29 MB used, 91.29 MB peak
+[2019.02.06-11.29.51:149][  0]LogMemory: Physical Memory: 4120.09 MB used,  3987.36 MB free, 8107.45 MB total
+[2019.02.06-11.29.51:149][  0]LogMemory: Virtual Memory: 556.54 MB used,  134217168.00 MB free, 134217728.00 MB total
+[2019.02.06-11.29.51:179][  0]LogInit: Using OS detected language (ja-JP).
+[2019.02.06-11.29.51:179][  0]LogInit: Using OS detected locale (ja-JP).
+[2019.02.06-11.29.51:180][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2019.02.06-11.29.51:505][  0]LogStreaming: Display: Took  0.326s to InitEngineTextLocalization.
+[2019.02.06-11.29.51:506][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.06-11.29.51:533][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.06-11.29.51:534][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.06-11.29.51:890][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.06-11.29.51:890][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.06-11.29.51:903][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.02.06-11.29.51:903][  0]LogD3D11RHI:       128/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.02.06-11.29.51:906][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.06-11.29.51:906][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.06-11.29.51:906][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.06-11.29.51:912][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.06-11.29.51:912][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.06-11.29.51:912][  0]LogWindows: EnumDisplayDevices:
+[2019.02.06-11.29.51:912][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.02.06-11.29.51:912][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.02.06-11.29.51:912][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.02.06-11.29.51:912][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.02.06-11.29.51:912][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2019.02.06-11.29.51:912][  0]LogD3D11RHI:   Driver Version: 22.20.16.4815 (internal:22.20.16.4815, unified:22.20.16.4815)
+[2019.02.06-11.29.51:912][  0]LogD3D11RHI:      Driver Date: 9-26-2017
+[2019.02.06-11.29.51:913][  0]LogRHI: Texture pool is 1508 MB (70% of 2154 MB)
+[2019.02.06-11.29.51:932][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.02.06-11.29.51:932][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.06-11.29.51:938][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.02.06-11.29.52:791][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.06-11.29.52:806][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.06-11.29.52:820][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.06-11.29.52:834][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.06-11.29.52:849][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.06-11.29.52:864][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.06-11.29.52:878][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.06-11.29.52:894][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.06-11.29.52:901][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:983][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-11.29.52:985][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.06-11.29.53:052][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.06-11.29.53:052][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.06-11.29.53:077][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.06-11.29.53:077][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.06-11.29.53:091][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.06-11.29.53:105][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.06-11.29.53:118][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.06-11.29.53:133][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.06-11.29.53:184][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.06-11.29.53:184][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.06-11.29.53:184][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.06-11.29.53:272][  0]LogShaderCompilers: Guid format shader working directory is 26 characters bigger than the processId version (../../../MyProject1/Intermediate/Shaders/WorkingDirectory/13852/).
+[2019.02.06-11.29.53:272][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Yoshi/AppData/Local/Temp/UnrealShaderWorkingDir/1A26605C4011DD73FEE4D9B23EB469D8/'.
+[2019.02.06-11.29.53:275][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.06-11.29.53:275][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.06-11.29.53:275][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.06-11.29.53:958][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.06-11.29.54:029][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Yoshi/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.06-11.29.54:029][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Yoshi/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.06-11.29.54:029][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../MyProject1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.06-11.29.54:029][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.06-11.29.54:029][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../MyProject1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.06-11.29.54:029][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.06-11.29.54:047][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.06-11.29.54:047][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.06-11.29.54:047][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.06-11.29.54:061][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Yoshi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.06-11.29.54:061][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.06-11.29.54:061][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.06-11.29.54:088][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.06-11.29.54:090][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.06-11.29.54:092][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.06-11.29.54:262][  0]LogAssetRegistry: FAssetRegistry took 0.0370 seconds to start up
+[2019.02.06-11.29.54:659][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.06-11.29.54:829][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.06-11.29.54:835][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.06-11.29.54:835][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.06-11.29.54:835][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.06-11.29.54:835][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.06-11.29.54:854][  0]LogNetVersion: MyProject1 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3671458904)
+[2019.02.06-11.29.55:485][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.204931 seconds
+[2019.02.06-11.29.55:491][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.06-11.29.55:491][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.02.06-11.29.55:491][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.06-11.29.56:950][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.06-11.29.56:964][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.06-11.29.58:193][  0]SourceControl: ソースコントロールは無効です
+[2019.02.06-11.29.58:193][  0]SourceControl: ソースコントロールは無効です
+[2019.02.06-11.29.58:195][  0]SourceControl: ソースコントロールは無効です
+[2019.02.06-11.29.58:197][  0]SourceControl: ソースコントロールは無効です
+[2019.02.06-11.29.58:393][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.06-11.29.58:449][  0]LogOcInput: OculusInput pre-init called
+[2019.02.06-11.29.58:594][  0]LogEngine: Initializing Engine...
+[2019.02.06-11.29.58:595][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.06-11.29.58:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.06-11.29.58:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.06-11.29.58:597][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.06-11.29.58:597][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.06-11.29.58:845][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.06-11.29.58:867][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.06-11.29.58:875][  0]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.06-11.29.58:945][  0]LogInit: FAudioDevice initialized.
+[2019.02.06-11.29.58:945][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.06-11.30.01:656][  0]LogDerivedDataCache: Saved boot cache 2.71s 71MB C:/Users/Yoshi/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.06-11.30.01:661][  0]LogInit: Texture streaming: Enabled
+[2019.02.06-11.30.01:681][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.06-11.30.01:728][  0]LogInit: Transaction tracking system initialized
+[2019.02.06-11.30.01:754][  0]BlueprintLog: New page: エディタの読み込み
+[2019.02.06-11.30.02:089][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2019.02.06-11.30.03:512][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.06-11.30.03:512][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.06-11.30.03:512][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.06-11.30.03:512][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.06-11.30.03:512][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.06-11.30.03:512][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.06-11.30.03:512][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.06-11.30.03:658][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yoshi/Desktop/UE_4.21/MyProject1/Content/' took 0.08s
+[2019.02.06-11.30.03:658][  0]SourceControl: ソースコントロールは無効です
+[2019.02.06-11.30.03:658][  0]Cmd: MAP LOAD FILE="../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.06-11.30.03:658][  0]LightingResults: New page: ライティングのビルド
+[2019.02.06-11.30.03:661][  0]MapCheck: New page: マップをチェック
+[2019.02.06-11.30.03:661][  0]LightingResults: New page: <何も選択されていません>
+[2019.02.06-11.30.22:642][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.02.06-11.30.23:438][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.06-11.30.23:481][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.06-11.30.23:481][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.136ミリ秒かかりました。
+[2019.02.06-11.30.23:481][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 19.824
+[2019.02.06-11.30.23:546][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.02.06-11.30.23:852][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.30.23:859][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.30.23:865][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.30.23:871][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.30.23:917][  0]LogCollectionManager: Loaded 0 collections in 0.001642 seconds
+[2019.02.06-11.30.23:966][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yoshi/Desktop/UE_4.21/MyProject1/Saved/Collections/' took 0.01s
+[2019.02.06-11.30.23:966][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yoshi/Desktop/UE_4.21/MyProject1/Content/Developers/Yoshi/Collections/' took 0.00s
+[2019.02.06-11.30.23:966][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yoshi/Desktop/UE_4.21/MyProject1/Content/Collections/' took 0.00s
+[2019.02.06-11.30.23:966][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.02.06-11.30.23:975][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2651 classes and 620 folders.
+[2019.02.06-11.30.23:999][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.06-11.30.24:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:154][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:158][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:160][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:165][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:167][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:169][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:171][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:176][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:179][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:185][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:192][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-11.30.24:582][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.06-11.30.24:648][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.06-11.30.24:856][  0]LogSlate: Took 0.000435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.06-11.30.24:858][  0]LogSlate: Took 0.000625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2019.02.06-11.30.24:859][  0]LogSlate: Took 0.000575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2019.02.06-11.30.24:859][  0]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.06-11.30.24:917][  0]LogSlate: Took 0.039641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.06-11.30.25:305][  0]LogRenderer: Reallocating scene render targets to support 884x472 Format 9 NumSamples 1 (Frame:1).
+[2019.02.06-11.30.27:382][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.06-11.30.27:382][  0]LogLoad: (Engine Initialization) Total time: 38.57 seconds
+[2019.02.06-11.30.27:382][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.06-11.30.27:457][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.02.06-11.30.27:585][  0]LogSlate: Took 0.050334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.06-11.30.27:945][  2]LogAssetRegistry: Asset discovery search completed in 33.7060 seconds
+[2019.02.06-11.30.27:949][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.02.06-11.30.27:949][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2019.02.06-11.30.51:527][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.30.52:330][564]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.02.06-11.31.19:844][401]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.02.06-11.31.20:304][401]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.32.38:636][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.33.07:938][835]LogStaticMesh: スタティックメッシュ SM_slum_roads_stair_07 をビルド中...
+[2019.02.06-11.33.08:149][835]LogSlate: Took 0.068856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.06-11.33.08:227][835]LogSlate: Took 0.077695 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2019.02.06-11.33.08:258][835]LogStaticMesh: Built static mesh [0.32s] /Game/SoulCity/Environment/Meshes/NewNavi/Roads/SM_slum_roads_stair_07.SM_slum_roads_stair_07
+[2019.02.06-11.33.08:713][861]LogActorFactory: Actor Factory created SM_slum_roads_stair_07
+[2019.02.06-11.33.08:724][861]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 64X64)
+[2019.02.06-11.33.08:727][861]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2019.02.06-11.33.08:728][861]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2019.02.06-11.33.08:729][861]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2019.02.06-11.33.08:754][861]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2019.02.06-11.33.08:756][861]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2019.02.06-11.33.08:757][861]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2019.02.06-11.33.08:777][861]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2019.02.06-11.33.12:358][929]LogActorFactory: Actor Factory created SM_slum_roads_stair_07
+[2019.02.06-11.33.38:826][582]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_07)
+[2019.02.06-11.33.38:911][582]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.33.42:922][821]Cmd: DELETE
+[2019.02.06-11.33.42:922][821]Cmd: ACTOR DELETE
+[2019.02.06-11.33.42:987][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-11.33.43:010][821]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.02.06-11.33.54:434][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.34.58:194][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.35.00:109][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.35.15:379][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.35.23:821][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.36.52:722][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.37.08:591][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.37.20:489][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.37.20:731][850]LogActorFactory: Actor Factory created SM_slum_roads_stair_21
+[2019.02.06-11.37.25:029][947]LogActorFactory: Actor Factory created SM_slum_roads_stair_21
+[2019.02.06-11.37.27:408][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_22)
+[2019.02.06-11.37.27:511][999]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.37.28:376][  6]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.37.28:496][  7]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_slum_roads_stair_22)
+[2019.02.06-11.37.29:206][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_22)
+[2019.02.06-11.37.29:302][ 24]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.37.31:706][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.37.44:786][301]LogSlate: Took 0.003269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.06-11.39.27:407][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2019.02.06-11.39.28:219][699]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor5)
+[2019.02.06-11.39.28:355][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.39.32:094][922]Cmd: DELETE
+[2019.02.06-11.39.32:094][922]Cmd: ACTOR DELETE
+[2019.02.06-11.39.32:109][922]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-11.39.32:156][922]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.02.06-11.39.33:484][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_22)
+[2019.02.06-11.39.36:322][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.40.30:566][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.40.30:938][728]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2019.02.06-11.40.31:000][728]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2019.02.06-11.40.31:000][728]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2019.02.06-11.40.31:001][728]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2019.02.06-11.40.31:002][728]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2019.02.06-11.40.31:255][728]LogSavePackage: Moving '../../../MyProject1/Saved/FirstPersonExampleMap_Auto179EBF5E141CD007CF5A700838405B1BC.tmp' to '../../../MyProject1/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.02.06-11.40.31:289][728]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.681
+[2019.02.06-11.40.31:289][728]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.681
+[2019.02.06-11.40.33:429][791]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_22)
+[2019.02.06-11.40.33:529][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.40.38:936][110]Cmd: DUPLICATE
+[2019.02.06-11.40.38:936][110]Cmd: ACTOR DUPLICATE
+[2019.02.06-11.40.43:047][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_23)
+[2019.02.06-11.40.43:841][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_23)
+[2019.02.06-11.40.43:935][221]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.40.45:522][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.42.03:076][958]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-11.42.22:516][375]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor6)
+[2019.02.06-11.42.23:421][394]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor6)
+[2019.02.06-11.42.23:499][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.42.26:167][508]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.42.30:785][584]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.42.31:560][598]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.42.31:689][598]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor6)
+[2019.02.06-11.42.35:974][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2019.02.06-11.42.36:106][685]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.42.37:062][702]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.42.37:180][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.42.40:035][867]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-11.42.41:382][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2019.02.06-11.42.41:984][904]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor6)
+[2019.02.06-11.42.42:100][904]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.42.45:881][128]Cmd: DELETE
+[2019.02.06-11.42.45:881][128]Cmd: ACTOR DELETE
+[2019.02.06-11.42.45:894][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-11.42.45:919][128]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.02.06-11.43.39:142][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.43.39:357][338]LogStaticMesh: スタティックメッシュ SM_slum_roads_stair_43 をビルド中...
+[2019.02.06-11.43.39:382][338]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCity/Environment/Meshes/NewNavi/Roads/SM_slum_roads_stair_43.SM_slum_roads_stair_43
+[2019.02.06-11.43.40:017][374]LogActorFactory: Actor Factory created SM_slum_roads_stair_43
+[2019.02.06-11.43.41:917][420]LogActorFactory: Actor Factory created SM_slum_roads_stair_43
+[2019.02.06-11.44.02:391][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_43)
+[2019.02.06-11.44.02:690][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_43)
+[2019.02.06-11.44.03:185][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_43)
+[2019.02.06-11.44.03:321][949]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.44.05:439][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.44.15:085][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.44.38:962][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.45.58:749][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.47.16:401][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.47.16:671][100]LogActorFactory: Actor Factory created SM_slum_roads_stair_31
+[2019.02.06-11.47.18:240][148]LogActorFactory: Actor Factory created SM_slum_roads_stair_31
+[2019.02.06-11.47.54:161][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_31)
+[2019.02.06-11.47.54:316][716]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.47.56:373][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.48.11:210][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.48.35:056][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.49.17:084][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.49.31:882][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.50.02:406][ 86]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.50.02:514][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.50.03:886][164]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-11.50.04:896][184]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_31)
+[2019.02.06-11.50.05:069][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.50.09:427][436]Cmd: DELETE
+[2019.02.06-11.50.09:427][436]Cmd: ACTOR DELETE
+[2019.02.06-11.50.09:440][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-11.50.09:463][436]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.02.06-11.50.11:588][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.50.12:102][494]LogActorFactory: Actor Factory created SM_slum_roads_stair_26
+[2019.02.06-11.50.13:417][523]LogActorFactory: Actor Factory created SM_slum_roads_stair_26
+[2019.02.06-11.50.23:037][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_26)
+[2019.02.06-11.50.23:126][738]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.50.26:031][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.53.17:824][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.53.55:488][599]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-11.53.56:959][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_26)
+[2019.02.06-11.53.57:831][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_26)
+[2019.02.06-11.53.58:023][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_26)
+[2019.02.06-11.53.59:071][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_26)
+[2019.02.06-11.53.59:269][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_26)
+[2019.02.06-11.54.01:452][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_26)
+[2019.02.06-11.54.01:573][774]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.54.05:408][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.55.06:316][282]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-11.55.07:179][296]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-11.55.07:312][296]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.02.06-11.55.08:110][311]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.02.06-11.55.08:237][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.55.12:718][579]Cmd: DELETE
+[2019.02.06-11.55.12:718][579]Cmd: ACTOR DELETE
+[2019.02.06-11.55.12:730][579]LogEditorActor: Deleted Actor: Landscape
+[2019.02.06-11.55.12:757][579]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.02.06-11.55.15:821][643]Cmd: TRANSACTION UNDO
+[2019.02.06-11.55.15:821][643]LogEditorTransaction: Undo アクタを削除
+[2019.02.06-11.55.17:730][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_26)
+[2019.02.06-11.55.18:579][712]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.02.06-11.55.18:778][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.55.23:797][  7]Cmd: DELETE
+[2019.02.06-11.55.23:797][  7]Cmd: ACTOR DELETE
+[2019.02.06-11.55.23:809][  7]LogEditorActor: Deleted Actor: Landscape
+[2019.02.06-11.55.23:837][  7]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.02.06-11.55.25:868][ 52]Cmd: TRANSACTION UNDO
+[2019.02.06-11.55.25:868][ 52]LogEditorTransaction: Undo アクタを削除
+[2019.02.06-11.55.27:496][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_26)
+[2019.02.06-11.55.28:360][121]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_26)
+[2019.02.06-11.55.28:497][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.55.32:295][348]Cmd: DELETE
+[2019.02.06-11.55.32:295][348]Cmd: ACTOR DELETE
+[2019.02.06-11.55.32:308][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-11.55.32:332][348]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.02.06-11.55.54:719][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_43)
+[2019.02.06-11.56.20:402][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.56.20:971][401]LogActorFactory: Actor Factory created Plane
+[2019.02.06-11.56.25:501][503]LogActorFactory: Actor Factory created Plane
+[2019.02.06-11.56.43:243][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2019.02.06-11.56.43:343][951]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.56.45:318][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.57.12:960][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.57.40:228][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.57.48:772][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_43)
+[2019.02.06-11.58.04:145][279]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-11.58.04:953][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2019.02.06-11.58.27:740][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2019.02.06-11.58.27:826][ 83]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.58.36:835][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.59.10:066][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_43)
+[2019.02.06-11.59.54:088][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2019.02.06-11.59.55:598][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2019.02.06-11.59.55:685][580]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-11.59.57:909][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.00.20:567][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.00.44:483][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.01.00:462][780]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.01.00:555][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.01.01:615][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_23)
+[2019.02.06-12.01.02:875][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2019.02.06-12.01.03:526][892]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane14)
+[2019.02.06-12.01.03:627][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.01.06:665][ 73]Cmd: DUPLICATE
+[2019.02.06-12.01.06:665][ 73]Cmd: ACTOR DUPLICATE
+[2019.02.06-12.01.22:403][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane15)
+[2019.02.06-12.01.22:472][589]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.01.23:707][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2019.02.06-12.01.24:860][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2019.02.06-12.01.24:979][671]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.01.26:218][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane15)
+[2019.02.06-12.01.26:304][716]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.01.27:424][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2019.02.06-12.01.27:507][756]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.01.28:862][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane15)
+[2019.02.06-12.01.28:948][804]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.01.40:195][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_43)
+[2019.02.06-12.01.55:234][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_43)
+[2019.02.06-12.01.55:318][647]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.01.58:123][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.02.32:010][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane15)
+[2019.02.06-12.02.32:620][686]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane15)
+[2019.02.06-12.02.32:686][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.02.36:458][908]Cmd: DUPLICATE
+[2019.02.06-12.02.36:458][908]Cmd: ACTOR DUPLICATE
+[2019.02.06-12.02.46:498][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_43)
+[2019.02.06-12.02.47:355][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane16)
+[2019.02.06-12.02.47:991][243]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane16)
+[2019.02.06-12.02.48:080][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.02.52:066][478]Cmd: DUPLICATE
+[2019.02.06-12.02.52:066][478]Cmd: ACTOR DUPLICATE
+[2019.02.06-12.03.22:673][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane17)
+[2019.02.06-12.03.23:382][461]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane17)
+[2019.02.06-12.03.23:460][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.03.25:201][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_23)
+[2019.02.06-12.03.26:847][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane16)
+[2019.02.06-12.03.28:036][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_43)
+[2019.02.06-12.03.30:288][690]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.03.51:956][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane15)
+[2019.02.06-12.03.54:115][843]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.04.09:672][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2019.02.06-12.04.13:522][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.04.18:081][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane16)
+[2019.02.06-12.04.20:637][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.04.24:955][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane17)
+[2019.02.06-12.04.26:734][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.05.05:438][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.05.07:404][ 83]LogActorFactory: Actor Factory created Plane
+[2019.02.06-12.05.12:090][184]LogActorFactory: Actor Factory created Plane
+[2019.02.06-12.05.39:316][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.05.39:407][943]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.05.41:173][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.06.09:064][706]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.06.09:148][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.06.11:148][826]Cmd: DUPLICATE
+[2019.02.06-12.06.11:148][826]Cmd: ACTOR DUPLICATE
+[2019.02.06-12.06.15:595][955]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-12.06.19:063][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.06.23:856][221]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.02.06-12.06.23:969][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.06.32:265][699]LogEditorViewport: Clicking Background
+[2019.02.06-12.06.33:321][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.06.38:918][997]LogEditorViewport: Clicking Background
+[2019.02.06-12.06.41:064][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.06.44:429][279]Cmd: DELETE
+[2019.02.06-12.06.44:430][279]Cmd: ACTOR DELETE
+[2019.02.06-12.06.44:442][279]LogEditorActor: Deleted Actor: Landscape
+[2019.02.06-12.06.44:472][279]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2019.02.06-12.07.07:087][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.07.12:677][ 38]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane18)
+[2019.02.06-12.07.12:746][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.07.16:080][232]Cmd: DELETE
+[2019.02.06-12.07.16:080][232]Cmd: ACTOR DELETE
+[2019.02.06-12.07.16:093][232]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-12.07.16:117][232]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.02.06-12.07.18:331][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.07.18:780][312]LogActorFactory: Actor Factory created Plane
+[2019.02.06-12.07.22:559][408]LogActorFactory: Actor Factory created Plane
+[2019.02.06-12.07.30:656][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.07.31:779][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.07.31:890][644]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.07.33:689][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.08.12:991][786]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.08.13:087][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.08.14:759][882]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-12.08.15:905][913]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane18)
+[2019.02.06-12.08.16:050][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.08.19:093][ 87]Cmd: DUPLICATE
+[2019.02.06-12.08.19:093][ 87]Cmd: ACTOR DUPLICATE
+[2019.02.06-12.08.37:282][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.08.37:940][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.08.38:759][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.08.43:604][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.08.44:645][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.08.45:529][832]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-12.08.46:832][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.08.47:849][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.08.52:142][ 21]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-12.08.52:204][ 21]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.02.06-12.08.53:641][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.08.53:724][ 75]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.08.57:502][216]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-12.08.57:576][216]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.02.06-12.08.58:848][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.08.59:010][264]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.09.00:670][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.09.00:814][326]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.09.02:676][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.09.03:663][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.09.03:767][433]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.09.06:889][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.09.41:328][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.09.43:099][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.09.56:506][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.09.58:965][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.10.25:811][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.10.26:146][320]LogActorFactory: Actor Factory created Plane
+[2019.02.06-12.10.31:026][455]LogActorFactory: Actor Factory created Plane
+[2019.02.06-12.10.53:999][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.10.58:776][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.11.01:216][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.11.29:888][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.11.44:772][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.11.57:860][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.12.02:356][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.12.03:083][344]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane18)
+[2019.02.06-12.12.03:178][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.12.04:324][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.12.06:160][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.12.06:238][458]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.12.15:494][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.12.20:362][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.12.20:444][829]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.12.22:257][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.12.49:563][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane20)
+[2019.02.06-12.12.53:331][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane20)
+[2019.02.06-12.12.53:549][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane20)
+[2019.02.06-12.12.54:682][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane20)
+[2019.02.06-12.12.54:759][861]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.12.56:756][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.13.46:118][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane17)
+[2019.02.06-12.13.47:668][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane20)
+[2019.02.06-12.14.09:051][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane20)
+[2019.02.06-12.14.09:574][ 31]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane20)
+[2019.02.06-12.14.09:641][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.14.13:867][283]Cmd: DELETE
+[2019.02.06-12.14.13:867][283]Cmd: ACTOR DELETE
+[2019.02.06-12.14.13:880][283]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-12.14.13:904][283]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.02.06-12.14.35:539][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.14.37:069][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.14.37:210][902]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.14.39:451][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.14.55:548][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.15.08:300][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.15.08:387][694]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.15.11:006][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.15.54:014][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.15.54:478][964]LogActorFactory: Actor Factory created SM_slum_roads_stair_21
+[2019.02.06-12.15.55:664][999]LogActorFactory: Actor Factory created SM_slum_roads_stair_21
+[2019.02.06-12.16.01:996][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_24)
+[2019.02.06-12.16.02:154][158]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.16.03:914][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.16.50:382][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2019.02.06-12.17.09:843][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane18)
+[2019.02.06-12.17.22:144][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_24)
+[2019.02.06-12.17.33:181][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_24)
+[2019.02.06-12.17.33:294][329]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.17.50:797][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.19.14:006][ 27]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-12.19.15:220][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_24)
+[2019.02.06-12.19.56:276][167]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-12.19.56:916][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_24)
+[2019.02.06-12.19.57:091][183]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.19.58:731][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.20.59:473][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.23.14:743][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.23.28:990][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.24.45:036][706]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-12.24.51:898][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_24)
+[2019.02.06-12.25.13:203][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_24)
+[2019.02.06-12.25.13:298][573]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.25.17:112][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.25.30:149][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.26.12:257][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_43)
+[2019.02.06-12.26.14:068][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_43)
+[2019.02.06-12.26.14:188][215]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.26.16:544][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.26.35:727][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_24)
+[2019.02.06-12.26.36:717][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_24)
+[2019.02.06-12.26.36:849][694]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.26.38:679][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.26.46:090][924]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.26.47:085][956]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.26.49:019][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.27.11:787][938]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-12.27.14:490][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.27.23:546][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.29.56:570][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.31.05:041][452]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.31.17:312][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.33.47:091][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.34.50:523][820]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.35.24:546][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.35.27:240][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScotsPineTall_01)
+[2019.02.06-12.36.04:254][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.36.11:410][533]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2019.02.06-12.36.11:450][533]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2019.02.06-12.36.12:604][575]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2019.02.06-12.36.12:633][575]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2019.02.06-12.36.13:265][600]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2019.02.06-12.36.13:289][600]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2019.02.06-12.36.15:603][680]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2019.02.06-12.36.15:628][680]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2019.02.06-12.36.25:198][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.36.52:453][354]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_19)
+[2019.02.06-12.36.52:600][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.37.59:879][379]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-12.38.22:293][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board)
+[2019.02.06-12.38.33:197][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board4)
+[2019.02.06-12.38.39:923][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.06-12.38.41:141][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.06-12.38.42:066][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.06-12.38.43:005][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board3)
+[2019.02.06-12.39.13:563][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c)
+[2019.02.06-12.39.24:309][941]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_03c)
+[2019.02.06-12.39.24:390][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.39.27:530][121]Cmd: DELETE
+[2019.02.06-12.39.27:530][121]Cmd: ACTOR DELETE
+[2019.02.06-12.39.27:543][121]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-12.39.27:569][121]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.02.06-12.39.35:261][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.39.59:991][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.40.00:505][  7]LogActorFactory: Actor Factory created SM_Slums_Wall_Tile_Board
+[2019.02.06-12.40.02:950][104]LogActorFactory: Actor Factory created SM_Slums_Wall_Tile_Board
+[2019.02.06-12.40.08:494][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-12.40.08:639][314]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.40.10:164][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.40.32:650][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.40.43:054][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.40.58:283][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.41.08:469][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board3)
+[2019.02.06-12.41.09:586][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board3)
+[2019.02.06-12.41.09:714][119]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.41.11:663][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-12.41.11:877][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-12.41.13:506][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-12.41.13:706][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-12.41.17:113][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-12.41.17:253][354]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.41.19:375][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.41.52:485][411]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.41.52:578][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.41.54:112][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_27)
+[2019.02.06-12.41.55:423][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-12.41.55:908][548]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-12.41.55:992][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.41.59:168][734]Cmd: DUPLICATE
+[2019.02.06-12.41.59:168][734]Cmd: ACTOR DUPLICATE
+[2019.02.06-12.42.13:289][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board7)
+[2019.02.06-12.42.13:422][163]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.42.14:963][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.42.30:649][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-12.43.02:124][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board)
+[2019.02.06-12.43.08:725][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board7)
+[2019.02.06-12.43.16:704][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board7)
+[2019.02.06-12.43.17:344][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board7)
+[2019.02.06-12.43.17:459][241]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.43.19:771][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-12.43.45:257][134]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.43.45:316][134]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Slums_Wall_Tile_Board7)
+[2019.02.06-12.43.46:913][177]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.44.28:645][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board)
+[2019.02.06-12.44.29:974][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board7)
+[2019.02.06-12.44.31:546][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.44.43:722][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-12.44.54:096][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-12.44.54:223][217]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-12.44.57:377][315]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.45.59:419][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-12.45.59:810][ 56]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2019.02.06-12.45.59:811][ 56]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2019.02.06-12.45.59:813][ 56]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2019.02.06-12.45.59:814][ 56]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2019.02.06-12.45.59:816][ 56]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2019.02.06-12.45.59:817][ 56]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2019.02.06-12.45.59:818][ 56]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2019.02.06-12.46.00:117][ 56]LogSavePackage: Moving '../../../MyProject1/Saved/FirstPersonExampleMap_Auto225C0167547230ED8A7E52F9A02304938.tmp' to '../../../MyProject1/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.02.06-12.46.00:122][ 56]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.612
+[2019.02.06-12.46.00:122][ 56]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.612
+[2019.02.06-13.15.16:380][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.21.25:185][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.23.19:817][ 70]EditorErrors: New page: アクタの親子付け
+[2019.02.06-13.23.27:194][347]EditorErrors: New page: アクタの親子付け
+[2019.02.06-13.24.56:791][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.27.25:259][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-13.27.27:154][489]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-13.27.28:129][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.27.31:891][699]Cmd: DUPLICATE
+[2019.02.06-13.27.31:892][699]Cmd: ACTOR DUPLICATE
+[2019.02.06-13.27.37:643][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board8)
+[2019.02.06-13.27.37:729][790]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-13.27.40:075][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.29.05:334][308]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-13.29.05:520][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.29.08:874][446]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-13.29.08:978][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.29.11:224][533]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-13.29.12:337][557]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_Tile_Board8)
+[2019.02.06-13.29.12:535][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.29.15:997][751]Cmd: DUPLICATE
+[2019.02.06-13.29.15:997][751]Cmd: ACTOR DUPLICATE
+[2019.02.06-13.29.21:638][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board9)
+[2019.02.06-13.29.21:725][888]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-13.29.24:124][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.30.16:057][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.30.41:422][630]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-13.30.41:550][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.30.42:568][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_19)
+[2019.02.06-13.30.44:376][707]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_Tile_Board9)
+[2019.02.06-13.30.44:617][707]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.30.50:114][996]Cmd: DUPLICATE
+[2019.02.06-13.30.50:114][996]Cmd: ACTOR DUPLICATE
+[2019.02.06-13.30.53:934][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board10)
+[2019.02.06-13.30.54:073][ 61]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-13.30.55:934][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.31.36:889][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.32.08:910][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.32.26:716][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.33.09:521][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.33.20:171][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.33.34:904][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.34.22:117][988]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-13.34.22:242][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.34.23:565][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_19)
+[2019.02.06-13.34.25:272][ 87]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_Tile_Board10)
+[2019.02.06-13.34.25:441][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.34.48:196][431]Cmd: DUPLICATE
+[2019.02.06-13.34.48:196][431]Cmd: ACTOR DUPLICATE
+[2019.02.06-13.34.53:648][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board11)
+[2019.02.06-13.34.53:740][567]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-13.34.57:474][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.36.13:687][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.37.08:922][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.37.11:023][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board11)
+[2019.02.06-13.37.12:910][819]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_Tile_Board11)
+[2019.02.06-13.37.13:018][819]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.37.15:770][977]Cmd: DUPLICATE
+[2019.02.06-13.37.15:770][977]Cmd: ACTOR DUPLICATE
+[2019.02.06-13.37.39:630][573]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-13.37.40:665][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board11)
+[2019.02.06-13.37.41:300][607]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_Tile_Board11)
+[2019.02.06-13.37.41:429][607]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.37.46:557][906]Cmd: DUPLICATE
+[2019.02.06-13.37.46:557][906]Cmd: ACTOR DUPLICATE
+[2019.02.06-13.37.48:048][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board11)
+[2019.02.06-13.37.48:951][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board11)
+[2019.02.06-13.37.49:042][959]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-13.37.52:084][ 23]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-13.37.52:888][ 38]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-13.37.52:991][ 38]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Slums_Wall_Tile_Board11)
+[2019.02.06-13.37.54:457][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board11)
+[2019.02.06-13.37.56:400][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board11)
+[2019.02.06-13.37.56:495][111]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-13.38.01:621][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.38.26:278][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.02.06-13.38.29:944][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder9)
+[2019.02.06-13.38.33:378][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.39.16:657][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.39.39:277][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.39.53:393][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.43.13:758][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.43.16:504][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board13)
+[2019.02.06-13.43.22:488][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board11)
+[2019.02.06-13.43.25:313][370]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_Tile_Board11)
+[2019.02.06-13.43.25:408][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-13.43.31:031][695]Cmd: DUPLICATE
+[2019.02.06-13.43.31:031][695]Cmd: ACTOR DUPLICATE
+[2019.02.06-13.43.58:600][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.44.36:031][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-13.44.46:547][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.06-13.45.16:269][585]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2019.02.06-13.45.16:758][585]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2019.02.06-13.45.16:759][585]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2019.02.06-13.45.16:816][585]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2019.02.06-13.45.16:882][585]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2019.02.06-13.45.17:751][585]LogSavePackage: Moving '../../../MyProject1/Saved/FirstPersonExampleMap21D0FC0C453B9D5705BBB595A673AF3A.tmp' to '../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.02.06-13.45.18:264][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2019.02.06-13.45.26:738][585]LogSavePackage: Moving '../../../MyProject1/Saved/FirstPersonExampleMap_BuiltDataEFBE36E94B51929F99F22281A402E58E.tmp' to '../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'

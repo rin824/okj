@@ -1,0 +1,1485 @@
+﻿Log file open, 02/06/19 16:54:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject1
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.289043
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.296s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/Yoshi/Desktop/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-07.54.39:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.06-07.54.39:634][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.06-07.54.39:635][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.06-07.54.39:635][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.06-07.54.39:635][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.06-07.54.39:635][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.06-07.54.39:635][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.06-07.54.39:635][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.06-07.54.39:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-07.54.39:635][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-07.54.39:638][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.06-07.54.39:638][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:639][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.06-07.54.39:639][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.06-07.54.39:639][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.06-07.54.39:639][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.06-07.54.39:708][  0]LogHAL: Display: Platform has ~ 8 GB [8501272576 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.06-07.54.39:708][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.06-07.54.39:708][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.02.06-07.54.39:708][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:708][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [../../../MyProject1/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.06-07.54.39:709][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.06-07.54.39:709][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../MyProject1/Saved/Config/Windows/Engine.ini]
+[2019.02.06-07.54.39:709][  0]LogInit: Computer: DESKTOP-5ADVPRM
+[2019.02.06-07.54.39:709][  0]LogInit: User: Yoshi
+[2019.02.06-07.54.39:709][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.06-07.54.39:709][  0]LogInit: High frequency timer resolution =1.945314 MHz
+[2019.02.06-07.54.39:710][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.02.06-07.54.39:710][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.06-07.54.39:710][  0]LogMemory: Process Physical Memory: 103.72 MB used, 103.72 MB peak
+[2019.02.06-07.54.39:710][  0]LogMemory: Process Virtual Memory: 91.23 MB used, 91.23 MB peak
+[2019.02.06-07.54.39:710][  0]LogMemory: Physical Memory: 4084.38 MB used,  4023.07 MB free, 8107.45 MB total
+[2019.02.06-07.54.39:710][  0]LogMemory: Virtual Memory: 556.54 MB used,  134217168.00 MB free, 134217728.00 MB total
+[2019.02.06-07.54.39:740][  0]LogInit: Using OS detected language (ja-JP).
+[2019.02.06-07.54.39:740][  0]LogInit: Using OS detected locale (ja-JP).
+[2019.02.06-07.54.39:741][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2019.02.06-07.54.40:070][  0]LogStreaming: Display: Took  0.329s to InitEngineTextLocalization.
+[2019.02.06-07.54.40:070][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.06-07.54.40:097][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.06-07.54.40:097][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.06-07.54.40:436][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.06-07.54.40:436][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.06-07.54.40:449][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.02.06-07.54.40:449][  0]LogD3D11RHI:       128/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.02.06-07.54.40:453][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.06-07.54.40:453][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.06-07.54.40:453][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.06-07.54.40:457][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.06-07.54.40:457][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.06-07.54.40:457][  0]LogWindows: EnumDisplayDevices:
+[2019.02.06-07.54.40:458][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.02.06-07.54.40:458][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.02.06-07.54.40:458][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.02.06-07.54.40:458][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.02.06-07.54.40:458][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2019.02.06-07.54.40:458][  0]LogD3D11RHI:   Driver Version: 22.20.16.4815 (internal:22.20.16.4815, unified:22.20.16.4815)
+[2019.02.06-07.54.40:458][  0]LogD3D11RHI:      Driver Date: 9-26-2017
+[2019.02.06-07.54.40:458][  0]LogRHI: Texture pool is 1508 MB (70% of 2154 MB)
+[2019.02.06-07.54.40:746][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.02.06-07.54.40:746][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.06-07.54.40:751][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.02.06-07.54.41:086][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.06-07.54.41:104][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.06-07.54.41:116][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.06-07.54.41:128][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.06-07.54.41:142][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.06-07.54.41:155][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.06-07.54.41:167][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.06-07.54.41:179][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.06-07.54.41:185][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.06-07.54.41:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-07.54.41:251][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.06-07.54.41:313][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.06-07.54.41:313][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.06-07.54.41:334][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.06-07.54.41:334][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.06-07.54.41:347][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.06-07.54.41:359][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.06-07.54.41:371][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.06-07.54.41:384][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.06-07.54.41:424][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.06-07.54.41:424][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.06-07.54.41:424][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.06-07.54.41:491][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (../../../MyProject1/Intermediate/Shaders/WorkingDirectory/4036/).
+[2019.02.06-07.54.41:491][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Yoshi/AppData/Local/Temp/UnrealShaderWorkingDir/59E907B749E4D7BF30CFC2886F6E793A/'.
+[2019.02.06-07.54.41:493][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.06-07.54.41:494][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.06-07.54.41:494][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.06-07.54.42:016][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.06-07.54.42:077][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Yoshi/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.06-07.54.42:077][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Yoshi/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.06-07.54.42:078][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../MyProject1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.06-07.54.42:078][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.06-07.54.42:078][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../MyProject1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.06-07.54.42:078][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.06-07.54.42:090][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.06-07.54.42:090][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.06-07.54.42:090][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.06-07.54.42:103][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Yoshi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.06-07.54.42:103][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.06-07.54.42:103][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.06-07.54.42:129][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.06-07.54.42:130][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.06-07.54.42:132][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.06-07.54.42:261][  0]LogAssetRegistry: FAssetRegistry took 0.0327 seconds to start up
+[2019.02.06-07.54.42:558][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.06-07.54.42:708][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.06-07.54.42:713][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.06-07.54.42:713][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.06-07.54.42:713][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.06-07.54.42:713][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.06-07.54.42:730][  0]LogNetVersion: MyProject1 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3671458904)
+[2019.02.06-07.54.43:332][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.197411 seconds
+[2019.02.06-07.54.43:338][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.06-07.54.43:338][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.02.06-07.54.43:338][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.06-07.54.44:705][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.06-07.54.44:718][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.06-07.54.45:903][  0]SourceControl: ソースコントロールは無効です
+[2019.02.06-07.54.45:903][  0]SourceControl: ソースコントロールは無効です
+[2019.02.06-07.54.45:905][  0]SourceControl: ソースコントロールは無効です
+[2019.02.06-07.54.45:907][  0]SourceControl: ソースコントロールは無効です
+[2019.02.06-07.54.46:091][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.06-07.54.46:142][  0]LogOcInput: OculusInput pre-init called
+[2019.02.06-07.54.46:276][  0]LogEngine: Initializing Engine...
+[2019.02.06-07.54.46:276][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.06-07.54.46:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.06-07.54.46:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.06-07.54.46:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.06-07.54.46:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.06-07.54.46:500][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.06-07.54.46:517][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.06-07.54.46:523][  0]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.06-07.54.46:580][  0]LogInit: FAudioDevice initialized.
+[2019.02.06-07.54.46:581][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.06-07.54.47:305][  0]LogDerivedDataCache: Saved boot cache 0.72s 71MB C:/Users/Yoshi/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.06-07.54.47:310][  0]LogInit: Texture streaming: Enabled
+[2019.02.06-07.54.47:330][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.06-07.54.47:356][  0]LogInit: Transaction tracking system initialized
+[2019.02.06-07.54.47:383][  0]BlueprintLog: New page: エディタの読み込み
+[2019.02.06-07.54.47:475][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2019.02.06-07.54.48:483][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.06-07.54.48:483][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.06-07.54.48:483][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.06-07.54.48:483][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.06-07.54.48:483][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.06-07.54.48:483][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.06-07.54.48:483][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.06-07.54.48:628][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yoshi/Desktop/UE_4.21/MyProject1/Content/' took 0.03s
+[2019.02.06-07.54.48:628][  0]SourceControl: ソースコントロールは無効です
+[2019.02.06-07.54.48:628][  0]Cmd: MAP LOAD FILE="../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.06-07.54.48:629][  0]LightingResults: New page: ライティングのビルド
+[2019.02.06-07.54.48:632][  0]MapCheck: New page: マップをチェック
+[2019.02.06-07.54.48:632][  0]LightingResults: New page: <何も選択されていません>
+[2019.02.06-07.55.03:778][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.02.06-07.55.05:455][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.06-07.55.05:527][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.06-07.55.05:527][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.108ミリ秒かかりました。
+[2019.02.06-07.55.05:527][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 16.899
+[2019.02.06-07.55.05:635][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.02.06-07.55.06:315][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-07.55.06:322][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-07.55.06:327][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-07.55.06:333][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-07.55.06:456][  0]LogCollectionManager: Loaded 0 collections in 0.001753 seconds
+[2019.02.06-07.55.06:592][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yoshi/Desktop/UE_4.21/MyProject1/Saved/Collections/' took 0.01s
+[2019.02.06-07.55.06:592][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yoshi/Desktop/UE_4.21/MyProject1/Content/Developers/Yoshi/Collections/' took 0.00s
+[2019.02.06-07.55.06:592][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yoshi/Desktop/UE_4.21/MyProject1/Content/Collections/' took 0.00s
+[2019.02.06-07.55.06:592][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.06-07.55.06:603][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2651 classes and 620 folders.
+[2019.02.06-07.55.06:730][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.06-07.55.07:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:146][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:157][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:159][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:161][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:165][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:170][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:176][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:178][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:186][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.07:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-07.55.08:002][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.06-07.55.08:171][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.06-07.55.08:517][  0]LogSlate: Took 0.000417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.06-07.55.08:519][  0]LogSlate: Took 0.000698 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2019.02.06-07.55.08:520][  0]LogSlate: Took 0.000550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2019.02.06-07.55.08:521][  0]LogSlate: Took 0.000600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.06-07.55.08:604][  0]LogSlate: Took 0.066833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.06-07.55.09:010][  0]LogRenderer: Reallocating scene render targets to support 884x472 Format 9 NumSamples 1 (Frame:1).
+[2019.02.06-07.55.40:089][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.06-07.55.40:089][  0]LogLoad: (Engine Initialization) Total time: 62.90 seconds
+[2019.02.06-07.55.40:089][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.06-07.55.40:150][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.02.06-07.55.40:333][  0]LogSlate: Took 0.071519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.06-07.55.40:617][  2]LogAssetRegistry: Asset discovery search completed in 58.3781 seconds
+[2019.02.06-07.55.40:620][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.02.06-07.55.40:621][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000097 seconds (updated 0 objects)
+[2019.02.06-07.55.56:382][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_27)
+[2019.02.06-07.56.00:051][584]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_27)
+[2019.02.06-07.56.00:202][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-07.56.04:484][992]Cmd: DELETE
+[2019.02.06-07.56.04:484][992]Cmd: ACTOR DELETE
+[2019.02.06-07.56.04:642][992]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-07.56.04:675][992]LogEditorActor: Deleted 1 Actors (0.150 secs)
+[2019.02.06-07.56.13:495][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-07.56.21:346][457]LogActorFactory: Actor Factory created SM_slum_roads_stair_27
+[2019.02.06-07.56.25:350][557]LogActorFactory: Actor Factory created SM_slum_roads_stair_27
+[2019.02.06-07.56.40:168][917]LogHttp: Warning: 000001B9795D1440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-07.56.40:168][917]LogHttp: Warning: 000001B9795D1440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-07.56.40:168][917]LogHttp: Warning: 000001B9795D1440: libcurl info message cache 1 (Closing connection 0)
+[2019.02.06-07.56.40:197][918]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-07.56.57:597][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_27)
+[2019.02.06-07.56.57:672][462]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-07.57.01:221][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-07.57.38:257][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-07.58.29:572][389]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-07.58.29:668][389]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-07.58.31:736][567]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-07.58.33:064][586]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_27)
+[2019.02.06-07.58.33:331][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-07.58.37:860][931]Cmd: DELETE
+[2019.02.06-07.58.37:860][931]Cmd: ACTOR DELETE
+[2019.02.06-07.58.37:880][931]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-07.58.37:918][931]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2019.02.06-07.58.40:274][973]LogHttp: Warning: 000001B9795D2C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-07.58.40:274][973]LogHttp: Warning: 000001B9795D2C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-07.58.40:274][973]LogHttp: Warning: 000001B9795D2C00: libcurl info message cache 1 (Closing connection 1)
+[2019.02.06-07.58.40:340][974]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-07.58.43:214][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-07.58.43:414][ 27]LogStaticMesh: スタティックメッシュ SM_slum_roads_stair_25 をビルド中...
+[2019.02.06-07.58.43:462][ 27]LogSlate: Took 0.025694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.06-07.58.43:517][ 27]LogSlate: Took 0.054711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2019.02.06-07.58.43:576][ 27]LogStaticMesh: Built static mesh [0.18s] /Game/SoulCity/Environment/Meshes/NewNavi/Roads/SM_slum_roads_stair_25.SM_slum_roads_stair_25
+[2019.02.06-07.58.43:600][ 27]LogActorFactory: Actor Factory created SM_slum_roads_stair_25
+[2019.02.06-07.58.46:573][ 83]LogActorFactory: Actor Factory created SM_slum_roads_stair_25
+[2019.02.06-07.59.01:879][593]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_25)
+[2019.02.06-07.59.01:946][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-07.59.05:040][804]Cmd: DELETE
+[2019.02.06-07.59.05:041][804]Cmd: ACTOR DELETE
+[2019.02.06-07.59.05:063][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-07.59.05:105][804]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2019.02.06-07.59.14:308][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-07.59.14:529][ 67]LogStaticMesh: スタティックメッシュ SM_slum_roads_stair_19 をビルド中...
+[2019.02.06-07.59.14:561][ 67]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCity/Environment/Meshes/NewNavi/Roads/SM_slum_roads_stair_19.SM_slum_roads_stair_19
+[2019.02.06-07.59.14:984][111]LogActorFactory: Actor Factory created SM_slum_roads_stair_19
+[2019.02.06-07.59.18:658][263]LogActorFactory: Actor Factory created SM_slum_roads_stair_19
+[2019.02.06-08.00.11:945][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_19)
+[2019.02.06-08.00.12:156][649]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.00.14:037][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.00.40:412][157]LogHttp: Warning: 000001B958ECF740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.00.40:412][157]LogHttp: Warning: 000001B958ECF740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.00.40:412][157]LogHttp: Warning: 000001B958ECF740: libcurl info message cache 1 (Closing connection 2)
+[2019.02.06-08.00.40:452][158]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.01.32:845][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.02.04:975][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.02.29:058][493]LogSlate: Took 0.015423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.06-08.02.40:523][734]LogHttp: Warning: 000001B97C0DEFC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.02.40:523][734]LogHttp: Warning: 000001B97C0DEFC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.02.40:523][734]LogHttp: Warning: 000001B97C0DEFC0: libcurl info message cache 1 (Closing connection 3)
+[2019.02.06-08.02.40:523][734]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.02.53:108][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.03.40:841][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c2)
+[2019.02.06-08.03.46:426][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c2)
+[2019.02.06-08.03.58:708][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_19)
+[2019.02.06-08.04.01:920][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.04.02:830][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.04.02:900][715]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.04.04:755][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_19)
+[2019.02.06-08.04.05:779][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_19)
+[2019.02.06-08.04.05:859][807]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.04.07:547][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.04.26:191][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.04.40:589][757]LogHttp: Warning: 000001B975471D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.04.40:589][757]LogHttp: Warning: 000001B975471D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.04.40:589][757]LogHttp: Warning: 000001B975471D00: libcurl info message cache 1 (Closing connection 4)
+[2019.02.06-08.04.40:624][758]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.04.55:737][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.05.15:466][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.05.27:966][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.05.28:223][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.05.29:176][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.05.29:316][842]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.05.31:038][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.05.51:630][296]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.05.51:717][296]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.06.17:632][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.06.17:888][874]LogStaticMesh: スタティックメッシュ SM_slum_roads_stair_24 をビルド中...
+[2019.02.06-08.06.17:937][874]LogStaticMesh: Built static mesh [0.05s] /Game/SoulCity/Environment/Meshes/NewNavi/Roads/SM_slum_roads_stair_24.SM_slum_roads_stair_24
+[2019.02.06-08.06.18:564][919]LogActorFactory: Actor Factory created SM_slum_roads_stair_24
+[2019.02.06-08.06.19:917][950]LogActorFactory: Actor Factory created SM_slum_roads_stair_24
+[2019.02.06-08.06.21:382][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.06.30:529][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.06.40:658][452]LogHttp: Warning: 000001B97C0DC680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.06.40:658][452]LogHttp: Warning: 000001B97C0DC680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.06.40:658][452]LogHttp: Warning: 000001B97C0DC680: libcurl info message cache 1 (Closing connection 5)
+[2019.02.06-08.06.40:658][452]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.07.10:629][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.07.15:244][542]Cmd: DELETE
+[2019.02.06-08.07.15:244][542]Cmd: ACTOR DELETE
+[2019.02.06-08.07.15:266][542]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-08.07.15:305][542]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.02.06-08.07.21:836][689]LogActorFactory: Actor Factory created SM_slum_roads_stair_27
+[2019.02.06-08.07.23:453][724]LogActorFactory: Actor Factory created SM_slum_roads_stair_27
+[2019.02.06-08.07.29:462][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_27)
+[2019.02.06-08.07.31:985][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_27)
+[2019.02.06-08.07.32:126][864]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.07.35:116][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.08.00:705][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.08.31:415][964]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.08.31:503][964]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_slum_roads_stair_27)
+[2019.02.06-08.08.35:262][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.08.40:309][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_27)
+[2019.02.06-08.08.40:565][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_27)
+[2019.02.06-08.08.40:746][146]LogHttp: Warning: 000001B9560A1A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.08.40:746][146]LogHttp: Warning: 000001B9560A1A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.08.40:746][146]LogHttp: Warning: 000001B9560A1A80: libcurl info message cache 1 (Closing connection 6)
+[2019.02.06-08.08.40:746][146]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.08.41:206][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_27)
+[2019.02.06-08.08.41:294][158]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.08.43:729][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.09.36:323][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.10.07:740][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.10.31:685][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.10.40:813][312]LogHttp: Warning: 000001B97139B380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.10.40:813][312]LogHttp: Warning: 000001B97139B380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.10.40:813][312]LogHttp: Warning: 000001B97139B380: libcurl info message cache 1 (Closing connection 7)
+[2019.02.06-08.10.40:813][312]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.11.20:666][182]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.11.41:267][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.12.07:818][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.12.08:717][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.12.08:896][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.12.10:137][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.12.10:336][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.12.11:295][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.12.11:373][495]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.12.15:053][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.12.35:819][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.12.40:867][156]LogHttp: Warning: 000001B9560A2AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.12.40:867][156]LogHttp: Warning: 000001B9560A2AC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.12.40:867][156]LogHttp: Warning: 000001B9560A2AC0: libcurl info message cache 1 (Closing connection 8)
+[2019.02.06-08.12.40:867][156]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.13.54:255][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c2)
+[2019.02.06-08.14.06:400][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c)
+[2019.02.06-08.14.26:070][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.14.27:022][755]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.02.06-08.14.40:929][ 14]LogHttp: Warning: 000001B97CDB91C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.14.40:929][ 14]LogHttp: Warning: 000001B97CDB91C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.14.40:929][ 14]LogHttp: Warning: 000001B97CDB91C0: libcurl info message cache 1 (Closing connection 9)
+[2019.02.06-08.14.40:929][ 14]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.14.49:775][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.15.07:013][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.15.23:861][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.15.42:096][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.15.45:595][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.15.48:959][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.16.13:822][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.16.23:830][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board4)
+[2019.02.06-08.16.35:627][756]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.02.06-08.16.35:713][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.16.35:718][756]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.02.06-08.16.35:759][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.16.38:075][951]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.16.38:699][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.16.39:235][965]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2019.02.06-08.16.39:236][965]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2019.02.06-08.16.39:532][965]LogSavePackage: Moving '../../../MyProject1/Saved/FirstPersonExampleMap_Auto18821D54A4EEA181384E86286F0BC1BE7.tmp' to '../../../MyProject1/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.02.06-08.16.39:561][965]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.821
+[2019.02.06-08.16.39:561][965]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.821
+[2019.02.06-08.16.40:961][ 18]LogHttp: Warning: 000001B955089F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.16.40:961][ 18]LogHttp: Warning: 000001B955089F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.16.40:961][ 18]LogHttp: Warning: 000001B955089F80: libcurl info message cache 1 (Closing connection 10)
+[2019.02.06-08.16.40:961][ 18]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.16.51:358][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board4)
+[2019.02.06-08.16.53:982][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board3)
+[2019.02.06-08.16.54:069][458]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.16.56:019][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.17.19:035][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.17.54:563][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board4)
+[2019.02.06-08.17.56:541][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board4)
+[2019.02.06-08.17.56:628][206]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.18.10:931][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.18.40:297][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.18.41:084][351]LogHttp: Warning: 000001B955089800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.18.41:084][351]LogHttp: Warning: 000001B955089800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.18.41:084][351]LogHttp: Warning: 000001B955089800: libcurl info message cache 1 (Closing connection 11)
+[2019.02.06-08.18.41:129][352]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.19.35:667][705]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.19.36:584][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board)
+[2019.02.06-08.19.38:482][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board)
+[2019.02.06-08.19.38:629][786]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.19.40:521][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.20.41:222][499]LogHttp: Warning: 000001B95A1BA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.20.41:222][499]LogHttp: Warning: 000001B95A1BA200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.20.41:222][499]LogHttp: Warning: 000001B95A1BA200: libcurl info message cache 1 (Closing connection 12)
+[2019.02.06-08.20.41:254][500]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.20.54:327][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.20.54:404][939]LogTemp: Repeating last play command: 選択ビューポート
+[2019.02.06-08.20.54:728][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.06-08.20.54:731][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.06-08.20.54:774][939]PIE: New page: PIEセッション: FirstPersonExampleMap (2019/02/07 2:20:54)
+[2019.02.06-08.20.55:002][939]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.02.06-08.20.55:066][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063843s)
+[2019.02.06-08.20.55:066][939]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.02.06-08.20.55:067][939]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2019.02.06-08.20.55:067][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.065414s)
+[2019.02.06-08.20.55:127][939]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.06-08.20.55:154][939]LogInit: FAudioDevice initialized.
+[2019.02.06-08.20.55:331][939]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.06-08.20.55:422][939]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.02.06-17.20.55
+[2019.02.06-08.20.55:488][939]LogWorld: Bringing up level for play took: 0.070725
+[2019.02.06-08.20.55:683][939]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.02.06-08.20.55:687][939]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.108のプレイ イン エディタの開始時間
+[2019.02.06-08.20.55:687][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.06-08.21.19:084][614]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.06-08.21.19:118][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-08.21.19:310][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.06-08.21.19:310][614]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.06-08.21.19:347][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-08.21.19:411][615]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.02.06-08.21.25:692][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.21.26:492][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.21.26:555][819]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.21.47:939][504]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.21.48:959][537]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.21.50:289][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board)
+[2019.02.06-08.22.00:862][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board4)
+[2019.02.06-08.22.05:877][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board4)
+[2019.02.06-08.22.41:333][274]LogHttp: Warning: 000001B90AFC7D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.22.41:333][274]LogHttp: Warning: 000001B90AFC7D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.22.41:333][274]LogHttp: Warning: 000001B90AFC7D80: libcurl info message cache 1 (Closing connection 13)
+[2019.02.06-08.22.41:333][274]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.22.58:505][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board3)
+[2019.02.06-08.23.43:597][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.23.44:223][ 27]LogActorFactory: Actor Factory created SM_slum_roads_stair_21
+[2019.02.06-08.23.46:077][ 79]LogActorFactory: Actor Factory created SM_slum_roads_stair_21
+[2019.02.06-08.23.48:086][138]LogActorFactory: Actor Factory created SM_slum_roads_stair_21
+[2019.02.06-08.23.49:892][192]LogActorFactory: Actor Factory created SM_slum_roads_stair_21
+[2019.02.06-08.23.58:816][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_22)
+[2019.02.06-08.23.58:895][423]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.24.00:866][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.24.34:506][338]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.24.34:589][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.24.39:256][448]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_22)
+[2019.02.06-08.24.39:843][448]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.24.41:092][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_22)
+[2019.02.06-08.24.41:381][491]LogHttp: Warning: 000001B90AFC6AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.24.41:382][491]LogHttp: Warning: 000001B90AFC6AC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.24.41:382][491]LogHttp: Warning: 000001B90AFC6AC0: libcurl info message cache 1 (Closing connection 14)
+[2019.02.06-08.24.41:421][492]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.24.41:824][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_22)
+[2019.02.06-08.24.42:758][527]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_22)
+[2019.02.06-08.24.42:846][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.24.46:581][616]Cmd: DELETE
+[2019.02.06-08.24.46:581][616]Cmd: ACTOR DELETE
+[2019.02.06-08.24.46:633][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-08.24.46:674][616]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.02.06-08.24.51:209][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.24.51:310][731]LogStaticMesh: スタティックメッシュ SM_slum_roads_stair_38 をビルド中...
+[2019.02.06-08.24.51:369][731]LogStaticMesh: Built static mesh [0.06s] /Game/SoulCity/Environment/Meshes/NewNavi/Roads/SM_slum_roads_stair_38.SM_slum_roads_stair_38
+[2019.02.06-08.24.51:792][741]LogActorFactory: Actor Factory created SM_slum_roads_stair_38
+[2019.02.06-08.24.53:471][787]LogActorFactory: Actor Factory created SM_slum_roads_stair_38
+[2019.02.06-08.25.00:233][ 18]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.02.06-08.25.00:339][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.25.04:357][121]Cmd: DELETE
+[2019.02.06-08.25.04:357][121]Cmd: ACTOR DELETE
+[2019.02.06-08.25.04:381][121]LogEditorActor: Deleted Actor: Landscape
+[2019.02.06-08.25.04:427][121]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2019.02.06-08.25.09:949][268]Cmd: TRANSACTION UNDO
+[2019.02.06-08.25.09:949][268]LogEditorTransaction: Undo アクタを削除
+[2019.02.06-08.25.13:822][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_38)
+[2019.02.06-08.25.14:458][400]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_38)
+[2019.02.06-08.25.14:529][400]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.25.18:125][522]Cmd: DELETE
+[2019.02.06-08.25.18:125][522]Cmd: ACTOR DELETE
+[2019.02.06-08.25.18:147][522]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-08.25.18:187][522]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.02.06-08.25.27:778][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.25.28:856][773]LogStaticMesh: スタティックメッシュ SM_slum_roads_stair_41 をビルド中...
+[2019.02.06-08.25.28:874][773]LogStaticMesh: Built static mesh [0.02s] /Game/SoulCity/Environment/Meshes/NewNavi/Roads/SM_slum_roads_stair_41.SM_slum_roads_stair_41
+[2019.02.06-08.25.29:030][776]LogActorFactory: Actor Factory created SM_slum_roads_stair_41
+[2019.02.06-08.25.30:748][826]LogActorFactory: Actor Factory created SM_slum_roads_stair_41
+[2019.02.06-08.25.58:029][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_41)
+[2019.02.06-08.26.03:973][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_41)
+[2019.02.06-08.26.04:054][910]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.26.05:647][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.26.18:806][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.26.41:482][877]LogHttp: Warning: 000001B982EDD1C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.26.41:482][877]LogHttp: Warning: 000001B982EDD1C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.26.41:482][877]LogHttp: Warning: 000001B982EDD1C0: libcurl info message cache 1 (Closing connection 15)
+[2019.02.06-08.26.41:525][878]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.27.19:528][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.27.59:704][189]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.28.24:303][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.28.41:598][102]LogHttp: Warning: 000001B9184E79C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.28.41:598][102]LogHttp: Warning: 000001B9184E79C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.28.41:598][102]LogHttp: Warning: 000001B9184E79C0: libcurl info message cache 1 (Closing connection 16)
+[2019.02.06-08.28.41:598][102]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.30.36:076][  0]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.30.36:129][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.30.39:182][ 70]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.30.39:263][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.30.40:394][100]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.30.41:319][122]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_41)
+[2019.02.06-08.30.41:457][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.30.41:675][126]LogHttp: Warning: 000001B9795D3740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.30.41:675][126]LogHttp: Warning: 000001B9795D3740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.30.41:675][126]LogHttp: Warning: 000001B9795D3740: libcurl info message cache 1 (Closing connection 17)
+[2019.02.06-08.30.41:675][126]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.30.46:234][232]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.30.47:667][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_41)
+[2019.02.06-08.30.48:271][278]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_41)
+[2019.02.06-08.30.48:376][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.30.49:962][315]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.30.50:677][330]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_41)
+[2019.02.06-08.30.50:840][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.31.04:206][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.31.10:797][823]Cmd: DELETE
+[2019.02.06-08.31.10:797][823]Cmd: ACTOR DELETE
+[2019.02.06-08.31.10:821][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-08.31.10:860][823]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.02.06-08.31.14:987][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_19)
+[2019.02.06-08.31.16:099][939]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_19)
+[2019.02.06-08.31.16:213][939]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.31.17:993][976]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.31.27:912][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.31.28:135][168]LogActorFactory: Actor Factory created Plane
+[2019.02.06-08.31.31:257][222]LogActorFactory: Actor Factory created Plane
+[2019.02.06-08.31.39:511][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.31.40:395][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.31.40:505][452]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.31.43:524][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.32.18:290][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.32.41:719][123]LogHttp: Warning: 000001B95A60C2C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.32.41:719][123]LogHttp: Warning: 000001B95A60C2C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.32.41:719][123]LogHttp: Warning: 000001B95A60C2C0: libcurl info message cache 1 (Closing connection 18)
+[2019.02.06-08.32.41:760][124]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.32.42:407][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.32.51:000][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.33.09:797][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.33.32:098][288]LogMaterial: Display: Missing cached shader map for material M_Slums_Concrete_MeshPaintWater, compiling. 
+[2019.02.06-08.33.32:737][288]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.02.06-08.33.32:737][288]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.02.06-08.33.32:737][288]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.06-08.33.32:737][288]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.06-08.33.40:929][487]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.06-08.33.41:275][494]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.06-08.33.59:720][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.34.03:003][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_19)
+[2019.02.06-08.34.12:821][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.34.14:703][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.34.23:142][740]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.34.23:233][740]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.02.06-08.34.25:906][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.34.28:191][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.34.30:370][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.34.30:614][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.34.31:170][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.34.31:335][922]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.34.34:424][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.34.41:835][137]LogHttp: Warning: 000001B9795D3740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.34.41:836][137]LogHttp: Warning: 000001B9795D3740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.34.41:836][137]LogHttp: Warning: 000001B9795D3740: libcurl info message cache 1 (Closing connection 19)
+[2019.02.06-08.34.41:883][138]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.34.59:670][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.35.49:625][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c)
+[2019.02.06-08.36.03:592][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.02.06-08.36.09:542][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder4)
+[2019.02.06-08.36.23:463][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
+[2019.02.06-08.36.28:622][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2019.02.06-08.36.35:898][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder9)
+[2019.02.06-08.36.41:965][616]LogHttp: Warning: 000001B90B0E1A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.36.41:965][616]LogHttp: Warning: 000001B90B0E1A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.36.41:965][616]LogHttp: Warning: 000001B90B0E1A80: libcurl info message cache 1 (Closing connection 20)
+[2019.02.06-08.36.41:965][616]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.37.05:542][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.37.06:321][177]LogStaticMesh: スタティックメッシュ SM_slum_roads_stair_31 をビルド中...
+[2019.02.06-08.37.06:333][177]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCity/Environment/Meshes/NewNavi/Roads/SM_slum_roads_stair_31.SM_slum_roads_stair_31
+[2019.02.06-08.37.06:369][177]LogActorFactory: Actor Factory created SM_slum_roads_stair_31
+[2019.02.06-08.37.10:299][299]LogActorFactory: Actor Factory created SM_slum_roads_stair_31
+[2019.02.06-08.37.18:990][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_31)
+[2019.02.06-08.37.19:210][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_31)
+[2019.02.06-08.37.19:895][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_31)
+[2019.02.06-08.37.19:967][649]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.37.22:165][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.37.59:516][668]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.38.00:449][685]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.38.00:561][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.38.02:226][719]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.38.04:942][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_31)
+[2019.02.06-08.38.06:573][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_31)
+[2019.02.06-08.38.06:803][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_31)
+[2019.02.06-08.38.07:675][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_31)
+[2019.02.06-08.38.07:775][818]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.38.11:683][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.38.41:295][429]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.38.41:445][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.38.42:064][441]LogHttp: Warning: 000001B918154900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.38.42:064][441]LogHttp: Warning: 000001B918154900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.38.42:064][441]LogHttp: Warning: 000001B918154900: libcurl info message cache 1 (Closing connection 21)
+[2019.02.06-08.38.42:123][442]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.38.44:272][479]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.38.45:285][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_31)
+[2019.02.06-08.39.02:470][797]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_slum_roads_stair_31)
+[2019.02.06-08.39.02:635][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.39.05:586][846]Cmd: DELETE
+[2019.02.06-08.39.05:586][846]Cmd: ACTOR DELETE
+[2019.02.06-08.39.05:610][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-08.39.05:647][846]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.02.06-08.39.23:591][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.39.26:361][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.39.56:618][888]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.40.19:225][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.40.21:514][409]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.40.24:582][488]LogMaterial: Display: Missing cached shader map for material M_COG_Underground_Brick01_wet, compiling. 
+[2019.02.06-08.40.24:615][488]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.06-08.40.24:615][488]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.06-08.40.24:615][488]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.06-08.40.24:615][488]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.06-08.40.42:159][893]LogHttp: Warning: 000001B965672200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.40.42:159][893]LogHttp: Warning: 000001B965672200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.40.42:159][893]LogHttp: Warning: 000001B965672200: libcurl info message cache 1 (Closing connection 22)
+[2019.02.06-08.40.42:189][894]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.41.07:887][760]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2019.02.06-08.41.07:970][760]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.41.09:547][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.41.10:226][835]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2019.02.06-08.41.10:305][835]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.41.11:370][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.41.12:401][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.41.17:986][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.41.20:219][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_19)
+[2019.02.06-08.41.22:343][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.41.50:895][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.41.52:374][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_19)
+[2019.02.06-08.41.54:378][946]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.42.22:550][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_27)
+[2019.02.06-08.42.24:476][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.42.42:267][249]LogHttp: Warning: 000001B981D03B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.42.42:267][249]LogHttp: Warning: 000001B981D03B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.42.42:267][249]LogHttp: Warning: 000001B981D03B00: libcurl info message cache 1 (Closing connection 23)
+[2019.02.06-08.42.42:455][250]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.42.50:030][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.42.50:964][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_slum_roads_stair_21)
+[2019.02.06-08.42.52:751][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.43.19:636][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.43.26:328][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.43.37:630][541]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.02.06-08.43.37:714][541]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer M_COG_Underground_Brick01_wet, compiling. 
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.06-08.43.42:184][541]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.06-08.43.45:353][541]LogTexture: Display: Building textures: T_M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2_BaseColor (BGRA8, 128X128)
+[2019.02.06-08.43.45:376][541]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2019.02.06-08.43.45:455][542]LogShaderCompilers: Display: Shaders left to compile 213
+[2019.02.06-08.43.45:455][542]LogShaderCompilers: Display: Shaders left to compile 203
+[2019.02.06-08.43.45:455][542]LogShaderCompilers: Display: Shaders left to compile 193
+[2019.02.06-08.43.45:455][542]LogShaderCompilers: Display: Shaders left to compile 183
+[2019.02.06-08.43.48:948][612]LogShaderCompilers: Display: Shaders left to compile 173
+[2019.02.06-08.43.48:968][612]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.02.06-08.43.49:290][619]LogShaderCompilers: Display: Shaders left to compile 153
+[2019.02.06-08.43.54:160][721]LogShaderCompilers: Display: Shaders left to compile 143
+[2019.02.06-08.43.55:088][743]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.02.06-08.43.56:769][781]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.02.06-08.43.57:551][798]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.02.06-08.43.59:661][844]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.02.06-08.44.02:101][898]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.02.06-08.44.04:556][954]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.02.06-08.44.04:556][954]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.02.06-08.44.05:179][972]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.02.06-08.44.10:722][ 98]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.02.06-08.44.11:375][117]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.02.06-08.44.11:384][117]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.06-08.44.11:384][117]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.06-08.44.16:691][237]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.06-08.44.16:691][237]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.06-08.44.26:108][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.44.26:463][423]LogSavePackage: Moving '../../../MyProject1/Saved/FirstPersonExampleMap_Auto22BF9CDDF4EDECE09247FE487666143CC.tmp' to '../../../MyProject1/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.02.06-08.44.26:467][423]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.336
+[2019.02.06-08.44.26:467][423]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.336
+[2019.02.06-08.44.26:468][423]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Engine/BasicShapes/M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2] ([2] browsable assets)...
+[2019.02.06-08.44.26:550][423]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Engine/BasicShapes/M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2.M_M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2]
+[2019.02.06-08.44.26:553][423]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Engine/BasicShapes/M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2.T_M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2_BaseColor]
+[2019.02.06-08.44.26:553][423]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2]
+[2019.02.06-08.44.26:556][423]LogTexture: Display: Building textures: T_M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2_BaseColor (DXT1, 128X128)
+[2019.02.06-08.44.26:641][423]LogSavePackage: Moving '../../../MyProject1/Saved/M_Plane_M_COG_Underground_Brick016F31B344B30405B4A8E778242CB1713.tmp' to '../../../MyProject1/Saved/Autosaves/Engine/BasicShapes/M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2_Auto2.uasset'
+[2019.02.06-08.44.26:643][423]LogFileHelpers: Auto-saving content packages took 0.176
+[2019.02.06-08.44.33:870][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.44.41:202][638]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.02.06-08.44.42:501][690]LogHttp: Warning: 000001B9656739C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.44.42:501][690]LogHttp: Warning: 000001B9656739C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.44.42:501][690]LogHttp: Warning: 000001B9656739C0: libcurl info message cache 1 (Closing connection 24)
+[2019.02.06-08.44.42:501][690]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.44.45:947][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.44.52:160][781]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.02.06-08.44.52:213][781]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer M_M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2, compiling. 
+[2019.02.06-08.44.56:262][781]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.06-08.44.56:262][781]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.06-08.44.56:262][781]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.06-08.44.56:262][781]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.06-08.44.56:262][781]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.06-08.44.56:262][781]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.06-08.44.56:262][781]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.06-08.44.56:262][781]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.06-08.44.56:262][781]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.06-08.44.56:262][781]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.06-08.44.56:262][781]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.06-08.44.56:262][781]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.06-08.44.56:263][781]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.06-08.44.56:337][781]LogTexture: Display: Building textures: T_M_Plane_M_M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2_13F914A3470B24A0DE0EE9B763EBA156_BaseColor (BGRA8, 128X128)
+[2019.02.06-08.45.06:581][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.45.18:826][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.45.19:894][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.45.20:022][372]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.45.22:843][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.46.17:102][ 53]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.46.26:233][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.46.42:560][740]LogHttp: Warning: 000001B997E19F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.46.42:560][740]LogHttp: Warning: 000001B997E19F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.46.42:560][740]LogHttp: Warning: 000001B997E19F80: libcurl info message cache 1 (Closing connection 25)
+[2019.02.06-08.46.42:560][740]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.46.57:035][155]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair ブラシ)
+[2019.02.06-08.46.59:032][212]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair ブラシ)
+[2019.02.06-08.47.11:529][573]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair ブラシ)
+[2019.02.06-08.47.24:891][971]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair ブラシ)
+[2019.02.06-08.47.27:348][ 39]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair ブラシ)
+[2019.02.06-08.47.29:822][112]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair ブラシ)
+[2019.02.06-08.48.02:013][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2019.02.06-08.48.07:541][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2019.02.06-08.48.07:659][173]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.48.16:669][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.48.21:041][556]Cmd: DELETE
+[2019.02.06-08.48.21:041][556]Cmd: ACTOR DELETE
+[2019.02.06-08.48.21:066][556]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-08.48.21:280][556]LogEditorActor: Deleted 1 Actors (0.239 secs)
+[2019.02.06-08.48.25:242][688]LogActorFactory: Actor Factory created Plane
+[2019.02.06-08.48.29:679][832]LogActorFactory: Actor Factory created Plane
+[2019.02.06-08.48.42:631][306]LogHttp: Warning: 000001B997AFAE80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.48.42:631][306]LogHttp: Warning: 000001B997AFAE80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.48.42:631][306]LogHttp: Warning: 000001B997AFAE80: libcurl info message cache 1 (Closing connection 26)
+[2019.02.06-08.48.42:631][306]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.48.54:224][709]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.48.54:293][709]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.02.06-08.48.55:227][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.02.06-08.48.55:319][739]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.48.58:050][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.49.19:014][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.49.27:667][631]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.49.29:113][667]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.49.39:523][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.50.01:808][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.50.17:508][ 32]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.50.42:702][843]LogHttp: Warning: 000001B997E19940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.50.42:702][843]LogHttp: Warning: 000001B997E19940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.50.42:702][843]LogHttp: Warning: 000001B997E19940: libcurl info message cache 1 (Closing connection 27)
+[2019.02.06-08.50.42:770][844]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.50.53:010][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.02.06-08.50.56:186][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.02.06-08.50.56:251][174]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.50.59:001][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.51.12:850][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.51.13:629][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.51.13:838][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.51.14:705][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.06-08.51.14:821][712]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.51.17:505][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.02.06-08.51.18:175][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.02.06-08.51.18:296][823]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.51.20:137][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.51.57:493][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-08.52.00:354][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-08.52.00:415][137]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.52.02:034][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.52.11:625][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board2)
+[2019.02.06-08.52.42:797][485]LogHttp: Warning: 000001B982A2E840: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.52.42:797][485]LogHttp: Warning: 000001B982A2E840: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.52.42:797][485]LogHttp: Warning: 000001B982A2E840: libcurl info message cache 1 (Closing connection 28)
+[2019.02.06-08.52.42:829][486]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.52.44:099][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.02.06-08.52.45:472][557]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane2)
+[2019.02.06-08.52.45:553][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.52.49:543][664]Cmd: DUPLICATE
+[2019.02.06-08.52.49:543][664]Cmd: ACTOR DUPLICATE
+[2019.02.06-08.52.59:551][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2019.02.06-08.53.00:669][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2019.02.06-08.53.00:739][981]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.53.03:309][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.02.06-08.53.04:062][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.02.06-08.53.04:648][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.02.06-08.53.04:908][104]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.53.07:588][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2019.02.06-08.53.07:678][189]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.53.09:309][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.53.33:010][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board2)
+[2019.02.06-08.53.36:165][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-08.53.37:399][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-08.53.38:171][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-08.53.38:270][169]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-08.53.43:602][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-08.53.55:310][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board2)
+[2019.02.06-08.54.07:310][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2019.02.06-08.54.08:826][108]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane3)
+[2019.02.06-08.54.08:891][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.54.12:891][230]Cmd: DUPLICATE
+[2019.02.06-08.54.12:891][230]Cmd: ACTOR DUPLICATE
+[2019.02.06-08.54.36:233][  1]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane4)
+[2019.02.06-08.54.36:325][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.54.41:359][141]Cmd: DUPLICATE
+[2019.02.06-08.54.41:359][141]Cmd: ACTOR DUPLICATE
+[2019.02.06-08.54.42:865][189]LogHttp: Warning: 000001B982A2F380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.54.42:866][189]LogHttp: Warning: 000001B982A2F380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.54.42:866][189]LogHttp: Warning: 000001B982A2F380: libcurl info message cache 1 (Closing connection 29)
+[2019.02.06-08.54.42:896][190]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.54.45:832][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2019.02.06-08.55.00:390][747]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane5)
+[2019.02.06-08.55.00:466][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.55.04:480][872]Cmd: DUPLICATE
+[2019.02.06-08.55.04:480][872]Cmd: ACTOR DUPLICATE
+[2019.02.06-08.55.26:984][644]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane6)
+[2019.02.06-08.55.27:056][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.55.32:134][796]Cmd: DUPLICATE
+[2019.02.06-08.55.32:134][796]Cmd: ACTOR DUPLICATE
+[2019.02.06-08.55.49:914][410]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane7)
+[2019.02.06-08.55.49:993][410]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.55.54:615][559]Cmd: DUPLICATE
+[2019.02.06-08.55.54:615][559]Cmd: ACTOR DUPLICATE
+[2019.02.06-08.56.31:375][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2019.02.06-08.56.32:067][931]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor4)
+[2019.02.06-08.56.32:147][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.56.35:520][ 39]Cmd: DELETE
+[2019.02.06-08.56.35:520][ 39]Cmd: ACTOR DELETE
+[2019.02.06-08.56.35:545][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-08.56.35:586][ 39]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2019.02.06-08.56.42:945][269]LogHttp: Warning: 000001B9976C1F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.56.42:945][269]LogHttp: Warning: 000001B9976C1F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.56.42:945][269]LogHttp: Warning: 000001B9976C1F80: libcurl info message cache 1 (Closing connection 30)
+[2019.02.06-08.56.42:977][270]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.56.46:054][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2019.02.06-08.56.46:892][395]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane8)
+[2019.02.06-08.56.46:963][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.56.49:910][484]Cmd: DUPLICATE
+[2019.02.06-08.56.49:910][484]Cmd: ACTOR DUPLICATE
+[2019.02.06-08.56.56:129][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane9)
+[2019.02.06-08.57.29:157][699]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.02.06-08.57.29:268][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.57.30:484][741]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane9)
+[2019.02.06-08.57.30:601][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.57.34:030][859]Cmd: DUPLICATE
+[2019.02.06-08.57.34:030][859]Cmd: ACTOR DUPLICATE
+[2019.02.06-08.57.53:368][539]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane10)
+[2019.02.06-08.57.53:440][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.57.58:080][690]Cmd: DUPLICATE
+[2019.02.06-08.57.58:080][690]Cmd: ACTOR DUPLICATE
+[2019.02.06-08.58.11:744][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-08.58.17:242][227]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor6)
+[2019.02.06-08.58.17:478][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.58.19:324][255]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.02.06-08.58.19:529][255]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.58.20:869][276]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-08.58.27:188][414]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane11)
+[2019.02.06-08.58.27:302][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.58.30:897][520]Cmd: DUPLICATE
+[2019.02.06-08.58.30:897][520]Cmd: ACTOR DUPLICATE
+[2019.02.06-08.58.43:057][918]LogHttp: Warning: 000001B998384540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-08.58.43:057][918]LogHttp: Warning: 000001B998384540: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-08.58.43:057][918]LogHttp: Warning: 000001B998384540: libcurl info message cache 1 (Closing connection 31)
+[2019.02.06-08.58.43:057][918]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-08.59.07:816][803]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane12)
+[2019.02.06-08.59.07:884][803]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.59.13:270][962]Cmd: DUPLICATE
+[2019.02.06-08.59.13:270][962]Cmd: ACTOR DUPLICATE
+[2019.02.06-08.59.30:189][532]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane13)
+[2019.02.06-08.59.30:265][532]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-08.59.34:770][675]Cmd: DUPLICATE
+[2019.02.06-08.59.34:770][675]Cmd: ACTOR DUPLICATE
+[2019.02.06-08.59.49:726][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-09.00.23:942][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-09.00.36:778][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2019.02.06-09.00.39:244][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board6)
+[2019.02.06-09.00.43:174][388]LogHttp: Warning: 000001B9A25D42C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-09.00.43:174][388]LogHttp: Warning: 000001B9A25D42C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-09.00.43:174][388]LogHttp: Warning: 000001B9A25D42C0: libcurl info message cache 1 (Closing connection 32)
+[2019.02.06-09.00.43:174][388]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-09.00.49:976][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2019.02.06-09.00.51:685][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2019.02.06-09.00.55:481][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-09.01.05:136][843]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_Tile_Board5)
+[2019.02.06-09.01.05:212][843]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-09.01.08:669][938]Cmd: DELETE
+[2019.02.06-09.01.08:669][938]Cmd: ACTOR DELETE
+[2019.02.06-09.01.08:696][938]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-09.01.08:735][938]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2019.02.06-09.01.09:840][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c3)
+[2019.02.06-09.01.10:668][  5]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_03c3)
+[2019.02.06-09.01.10:735][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-09.01.13:860][ 99]Cmd: DUPLICATE
+[2019.02.06-09.01.13:860][ 99]Cmd: ACTOR DUPLICATE
+[2019.02.06-09.01.17:342][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c4)
+[2019.02.06-09.01.18:184][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c4)
+[2019.02.06-09.01.18:294][245]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-09.01.21:011][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-09.01.58:604][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c3)
+[2019.02.06-09.02.19:173][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c4)
+[2019.02.06-09.02.34:924][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2019.02.06-09.02.43:251][120]LogHttp: Warning: 000001B9A25D42C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-09.02.43:251][120]LogHttp: Warning: 000001B9A25D42C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-09.02.43:251][120]LogHttp: Warning: 000001B9A25D42C0: libcurl info message cache 1 (Closing connection 33)
+[2019.02.06-09.02.43:251][120]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-09.02.43:681][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2019.02.06-09.02.59:305][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-09.02.59:575][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.06-09.02.59:886][481]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2019.02.06-09.02.59:887][481]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2019.02.06-09.03.00:129][481]LogSavePackage: Moving '../../../MyProject1/Saved/FirstPersonExampleMap0EF6BD9540A6F466F65993976C89C5F0.tmp' to '../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.02.06-09.03.00:222][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2019.02.06-09.03.06:718][481]LogSavePackage: Moving '../../../MyProject1/Saved/FirstPersonExampleMap_BuiltDataEC4EC4B3478DD561ACB55D8327D41132.tmp' to '../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.02.06-09.03.23:663][954]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-09.03.25:415][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2019.02.06-09.03.26:823][ 34]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane14)
+[2019.02.06-09.03.26:919][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-09.03.30:825][132]Cmd: DELETE
+[2019.02.06-09.03.30:825][132]Cmd: ACTOR DELETE
+[2019.02.06-09.03.30:849][132]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-09.03.30:888][132]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.02.06-09.03.32:886][195]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-09.03.33:848][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board2)
+[2019.02.06-09.03.41:751][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_Tile_Board2)
+[2019.02.06-09.03.41:832][453]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-09.03.43:251][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-09.03.52:130][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-09.04.00:616][961]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-09.04.07:813][122]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_03c3)
+[2019.02.06-09.04.07:950][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-09.04.12:385][245]Cmd: DUPLICATE
+[2019.02.06-09.04.12:385][245]Cmd: ACTOR DUPLICATE
+[2019.02.06-09.04.38:298][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c5)
+[2019.02.06-09.04.38:528][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c5)
+[2019.02.06-09.04.40:128][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c5)
+[2019.02.06-09.04.40:841][912]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Slums_Wall_03c5)
+[2019.02.06-09.04.40:909][912]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-09.04.43:317][986]LogHttp: Warning: 000001B9799D0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-09.04.43:317][986]LogHttp: Warning: 000001B9799D0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-09.04.43:317][986]LogHttp: Warning: 000001B9799D0A40: libcurl info message cache 1 (Closing connection 34)
+[2019.02.06-09.04.43:317][986]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-09.04.46:993][100]Cmd: DUPLICATE
+[2019.02.06-09.04.46:993][100]Cmd: ACTOR DUPLICATE
+[2019.02.06-09.04.50:626][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c6)
+[2019.02.06-09.04.50:741][221]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-09.04.52:265][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-09.05.29:341][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c5)
+[2019.02.06-09.05.34:265][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c5)
+[2019.02.06-09.05.35:057][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c5)
+[2019.02.06-09.05.35:118][666]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.06-09.05.37:291][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-09.06.43:366][513]LogHttp: Warning: 000001B9799D1800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.06-09.06.43:366][513]LogHttp: Warning: 000001B9799D1800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.06-09.06.43:366][513]LogHttp: Warning: 000001B9799D1800: libcurl info message cache 1 (Closing connection 35)
+[2019.02.06-09.06.43:390][514]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE395BB9D-4B97-1510-FEA2-CDB6CCB2E007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a493a7ae4f5a4d95ae16ffa39500b658%7C99457111e5434491a4f626c52438eb96%7Cbd979871-5647-498d-b009-7298f68d172a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.06-09.07.07:425][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c6)
+[2019.02.06-09.07.10:168][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_03c5)
+[2019.02.06-09.07.21:563][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder8)
+[2019.02.06-09.07.37:359][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder7)
+[2019.02.06-09.07.44:375][557]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-09.07.45:861][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder6)
+[2019.02.06-09.07.51:883][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2019.02.06-09.08.23:746][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-09.08.23:984][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.06-09.08.24:562][500]LogSavePackage: Moving '../../../MyProject1/Saved/FirstPersonExampleMapC299235C4B3CADBCE46D3887AC2070CD.tmp' to '../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.02.06-09.08.24:631][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2019.02.06-09.08.32:684][500]LogSavePackage: Moving '../../../MyProject1/Saved/FirstPersonExampleMap_BuiltDataF7DA1E99431DE2DE85351FA7355CF1B4.tmp' to '../../../MyProject1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.02.06-09.08.39:993][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-09.08.42:648][694]LogSlate: Window 'コンテンツを保存' being destroyed
+[2019.02.06-09.08.42:657][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-09.08.42:801][694]LogSavePackage: Moving '../../../MyProject1/Saved/M_Plane_M_COG_Underground_Brick0CD05D2D243DACE263859B7A000FB229E.tmp' to '../../../Engine/Content/BasicShapes/M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2.uasset'
+[2019.02.06-09.08.43:896][694]LogTexture: Display: Building textures: T_M_Plane_M_M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2_13F914A3470B24A0DE0EE9B763EBA156_BaseColor (DXT1, 128X128)
+[2019.02.06-09.08.43:969][694]LogSavePackage: Moving '../../../MyProject1/Saved/M_Plane_M_M_Plane_M_COG_UndergroD5E1AAA94F5085EC3D485F91624D2B2E.tmp' to '../../../Engine/Content/BasicShapes/M_Plane_M_M_Plane_M_COG_Underground_Brick01_wet_1D700909465489ADE149E49154EB9DA2_13F914A3470B24A0DE0EE9B763EBA156.uasset'
+[2019.02.06-09.08.44:292][694]LogSlate: Window 'MyProject1 - Unreal Editor' being destroyed
+[2019.02.06-09.08.44:347][694]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.02.06-09.08.45:745][695]Cmd: QUIT_EDITOR
+[2019.02.06-09.08.47:315][695]LogExit: Preparing to exit.
+[2019.02.06-09.08.53:314][695]LogExit: Editor shut down
+[2019.02.06-09.08.53:315][695]LogExit: Transaction tracking system shut down
+[2019.02.06-09.08.56:775][695]LogExit: Object subsystem successfully closed.
+[2019.02.06-09.08.57:158][695]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.06-09.08.57:323][695]LogD3D11RHI: Shutdown
+[2019.02.06-09.08.57:323][695]LogD3D11RHI: CleanupD3DDevice
+[2019.02.06-09.08.59:210][695]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2019.02.06-09.08.59:210][695]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.06-09.09.03:770][695]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (630)
+[2019.02.06-09.09.04:012][695]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2019.02.06-09.09.04:044][695]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2019.02.06-09.09.04:063][695]LogModuleManager: Shutting down and abandoning module MeshBuilder (624)
+[2019.02.06-09.09.04:063][695]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.02.06-09.09.04:063][695]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.02.06-09.09.04:092][695]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.02.06-09.09.04:106][695]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.02.06-09.09.04:106][695]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.02.06-09.09.04:106][695]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.02.06-09.09.04:107][695]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.02.06-09.09.04:138][695]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.02.06-09.09.04:140][695]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.02.06-09.09.04:171][695]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.02.06-09.09.04:171][695]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.02.06-09.09.04:171][695]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.02.06-09.09.04:171][695]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.02.06-09.09.04:171][695]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.02.06-09.09.04:171][695]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.02.06-09.09.04:210][695]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.02.06-09.09.04:211][695]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.02.06-09.09.04:211][695]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.02.06-09.09.04:211][695]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.02.06-09.09.04:211][695]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.02.06-09.09.04:211][695]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.02.06-09.09.04:217][695]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.02.06-09.09.04:217][695]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.02.06-09.09.04:219][695]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.02.06-09.09.04:219][695]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.02.06-09.09.04:219][695]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.02.06-09.09.04:219][695]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.02.06-09.09.04:219][695]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.02.06-09.09.04:220][695]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.02.06-09.09.04:222][695]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.02.06-09.09.04:224][695]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.02.06-09.09.04:226][695]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.02.06-09.09.04:227][695]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.02.06-09.09.04:229][695]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.02.06-09.09.04:232][695]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.02.06-09.09.04:233][695]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.02.06-09.09.04:233][695]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.02.06-09.09.04:233][695]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.02.06-09.09.04:233][695]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.02.06-09.09.04:233][695]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.02.06-09.09.04:488][695]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.02.06-09.09.04:488][695]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.02.06-09.09.04:488][695]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.02.06-09.09.04:488][695]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.02.06-09.09.04:488][695]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.02.06-09.09.04:488][695]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.02.06-09.09.04:489][695]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.02.06-09.09.04:490][695]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.02.06-09.09.04:564][695]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.02.06-09.09.04:566][695]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.02.06-09.09.04:566][695]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.02.06-09.09.04:566][695]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.02.06-09.09.04:567][695]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.02.06-09.09.04:567][695]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.02.06-09.09.04:567][695]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.02.06-09.09.04:567][695]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.02.06-09.09.04:567][695]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.02.06-09.09.04:567][695]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.02.06-09.09.04:569][695]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.02.06-09.09.04:583][695]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.02.06-09.09.04:633][695]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.02.06-09.09.04:648][695]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.02.06-09.09.04:648][695]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.02.06-09.09.04:690][695]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.02.06-09.09.04:691][695]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.02.06-09.09.04:692][695]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.02.06-09.09.04:692][695]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.02.06-09.09.04:692][695]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.02.06-09.09.04:693][695]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.02.06-09.09.04:693][695]LogModuleManager: Shutting down and abandoning module Persona (452)

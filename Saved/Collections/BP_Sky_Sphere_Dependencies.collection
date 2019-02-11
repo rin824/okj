@@ -1,0 +1,12 @@
+FileVersion:2
+Type:Static
+Guid:A098FABA-4FDC-CAD8-CC18-178188A34D5C
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+/Engine/EngineSky/C_Sky_Cloud_Color.C_Sky_Cloud_Color
+/Engine/EngineSky/C_Sky_Horizon_Color.C_Sky_Horizon_Color
+/Engine/EngineSky/C_Sky_Zenith_Color.C_Sky_Zenith_Color
+/Engine/EngineSky/M_Sky_Panning_Clouds2.M_Sky_Panning_Clouds2
+/Engine/EngineSky/SM_SkySphere.SM_SkySphere
